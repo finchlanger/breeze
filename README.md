@@ -7,3 +7,5 @@ alias breeze='cd /root/
 sh breeze.sh'
 END
 exit
+
+source: https://habrahabr.ru/post/309628/
